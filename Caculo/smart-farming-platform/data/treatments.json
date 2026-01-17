@@ -1,0 +1,190 @@
+{
+  "Healthy": [
+    {
+      "name": "Preventive Care Program",
+      "type": "Organic Prevention",
+      "method": "Integrated plant health management",
+      "eco_rating": 5,
+      "cost": "Low",
+      "ingredients": ["Compost", "Organic fertilizer", "Beneficial microorganisms", "Mulch"],
+      "application": "Apply organic compost monthly, use beneficial bacteria, maintain proper mulching",
+      "effectiveness": "95%",
+      "frequency": "Monthly maintenance"
+    }
+  ],
+  "Leaf Blight": [
+    {
+      "name": "Neem Oil Treatment",
+      "type": "Organic Fungicide",
+      "method": "Foliar spray application",
+      "eco_rating": 4,
+      "cost": "Low",
+      "ingredients": ["Cold-pressed neem oil", "Water", "Mild liquid soap"],
+      "application": "Mix 2 tablespoons neem oil + 1 tsp soap per liter water. Spray in evening to avoid leaf burn.",
+      "effectiveness": "80%",
+      "frequency": "Every 7-10 days"
+    },
+    {
+      "name": "Baking Soda Fungicide",
+      "type": "Natural Alkaline Treatment",
+      "method": "pH adjustment spray",
+      "eco_rating": 5,
+      "cost": "Very Low",
+      "ingredients": ["Baking soda", "Water", "Vegetable oil", "Liquid soap"],
+      "application": "1 tsp baking soda + 1 tsp oil + few drops soap per liter water. Test on small area first.",
+      "effectiveness": "70%",
+      "frequency": "Weekly applications"
+    },
+    {
+      "name": "Copper Soap Fungicide",
+      "type": "OMRI Approved Organic",
+      "method": "Protective barrier spray",
+      "eco_rating": 3,
+      "cost": "Medium",
+      "ingredients": ["Organic copper sulfate", "Soap base"],
+      "application": "Follow manufacturer's organic certification guidelines. Apply before rain.",
+      "effectiveness": "85%",
+      "frequency": "Bi-weekly or as needed"
+    }
+  ],
+  "Powdery Mildew": [
+    {
+      "name": "Milk Spray Solution",
+      "type": "Natural Protein Treatment",
+      "method": "Enzymatic foliar application",
+      "eco_rating": 5,
+      "cost": "Very Low",
+      "ingredients": ["Fresh whole milk", "Water"],
+      "application": "Mix 1 part milk with 9 parts water. Spray in morning, avoid hot sun. Proteins create hostile environment for fungi.",
+      "effectiveness": "75%",
+      "frequency": "Weekly applications"
+    },
+    {
+      "name": "Garlic-Onion Antifungal",
+      "type": "Sulfur Compound Treatment",
+      "method": "Natural antimicrobial spray",
+      "eco_rating": 5,
+      "cost": "Low",
+      "ingredients": ["Fresh garlic cloves", "Onion", "Water", "Biodegradable soap"],
+      "application": "Blend 6 cloves garlic + 1 onion in 1L water. Strain, add soap, spray affected areas.",
+      "effectiveness": "70%",
+      "frequency": "Every 5-7 days"
+    },
+    {
+      "name": "Potassium Bicarbonate",
+      "type": "Alkaline Fungicide",
+      "method": "pH modification treatment",
+      "eco_rating": 4,
+      "cost": "Low",
+      "ingredients": ["Food-grade potassium bicarbonate", "Water", "Horticultural oil"],
+      "application": "1 tablespoon per liter water + few drops oil. More effective than baking soda.",
+      "effectiveness": "80%",
+      "frequency": "Weekly treatments"
+    }
+  ],
+  "Rust Disease": [
+    {
+      "name": "Compost Tea Biofungicide",
+      "type": "Beneficial Microorganism Treatment",
+      "method": "Living soil amendment",
+      "eco_rating": 5,
+      "cost": "Low",
+      "ingredients": ["Well-aged compost", "Non-chlorinated water", "Molasses"],
+      "application": "Steep 1 cup compost in 4L water for 24-48 hours with 1 tsp molasses. Strain and spray.",
+      "effectiveness": "65%",
+      "frequency": "Bi-weekly applications"
+    },
+    {
+      "name": "Chamomile Antifungal Tea",
+      "type": "Herbal Treatment",
+      "method": "Natural plant medicine",
+      "eco_rating": 5,
+      "cost": "Low",
+      "ingredients": ["Dried chamomile flowers", "Hot water"],
+      "application": "Steep 2 tbsp dried chamomile in 1L hot water for 20 minutes. Cool, strain, spray affected areas.",
+      "effectiveness": "60%",
+      "frequency": "Every 3-4 days"
+    },
+    {
+      "name": "Bordeaux Mixture (Organic)",
+      "type": "Traditional Copper Treatment",
+      "method": "Protective copper barrier",
+      "eco_rating": 3,
+      "cost": "Medium",
+      "ingredients": ["Copper sulfate", "Hydrated lime", "Water"],
+      "application": "Mix equal parts copper sulfate and lime in water. Use only organic-approved formulations.",
+      "effectiveness": "85%",
+      "frequency": "Monthly preventive"
+    }
+  ],
+  "Bacterial Spot": [
+    {
+      "name": "Hydrogen Peroxide Disinfectant",
+      "type": "Oxidizing Agent",
+      "method": "Bacterial cell disruption",
+      "eco_rating": 4,
+      "cost": "Low",
+      "ingredients": ["3% Hydrogen peroxide", "Water"],
+      "application": "Dilute 1 part 3% H2O2 with 10 parts water. Spray lightly, avoid overuse on sensitive plants.",
+      "effectiveness": "70%",
+      "frequency": "Every 3-5 days"
+    },
+    {
+      "name": "Apple Cider Vinegar Treatment",
+      "type": "Acidic Antimicrobial",
+      "method": "pH reduction therapy",
+      "eco_rating": 5,
+      "cost": "Low",
+      "ingredients": ["Raw apple cider vinegar", "Water"],
+      "application": "2 tablespoons ACV per liter water. Spray in early morning. Creates hostile environment for bacteria.",
+      "effectiveness": "65%",
+      "frequency": "Every 2-3 days"
+    },
+    {
+      "name": "Beneficial Bacteria Inoculation",
+      "type": "Competitive Biological Control",
+      "method": "Probiotic plant treatment",
+      "eco_rating": 5,
+      "cost": "Medium",
+      "ingredients": ["Bacillus subtilis", "Pseudomonas fluorescens", "Carrier medium"],
+      "application": "Apply beneficial bacteria to soil and root zone. They outcompete harmful bacteria.",
+      "effectiveness": "80%",
+      "frequency": "Monthly soil treatment"
+    }
+  ],
+  "Mosaic Virus": [
+    {
+      "name": "Infected Plant Removal",
+      "type": "Sanitation Control",
+      "method": "Source elimination",
+      "eco_rating": 5,
+      "cost": "Low",
+      "ingredients": ["70% isopropyl alcohol", "Clean pruning tools", "Disposal bags"],
+      "application": "Remove entire infected plants. Disinfect tools between each plant. Dispose in municipal waste, not compost.",
+      "effectiveness": "90%",
+      "frequency": "Immediate upon detection"
+    },
+    {
+      "name": "Reflective Mulch Barrier",
+      "type": "Vector Deterrent",
+      "method": "Aphid confusion technique",
+      "eco_rating": 4,
+      "cost": "Medium",
+      "ingredients": ["Aluminum foil mulch", "Silver reflective plastic"],
+      "application": "Install reflective mulch around plants. Confuses aphids that transmit virus.",
+      "effectiveness": "60%",
+      "frequency": "Season-long installation"
+    },
+    {
+      "name": "Companion Planting Defense",
+      "type": "Natural Pest Deterrent",
+      "method": "Integrated ecosystem approach",
+      "eco_rating": 5,
+      "cost": "Low",
+      "ingredients": ["Marigold seeds", "Basil plants", "Nasturtium seeds", "Catnip"],
+      "application": "Plant deterrent species in and around susceptible crops. Creates natural pest barriers.",
+      "effectiveness": "50%",
+      "frequency": "Seasonal planting"
+    }
+  ]
+}

@@ -1,0 +1,6 @@
+Bacterial Spot
+Healthy
+Leaf Blight
+Mosaic Virus
+Powdery Mildew
+Rust Disease
